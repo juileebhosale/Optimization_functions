@@ -1,7 +1,4 @@
-#test_change
-a=1+2
-print (a)
-#Changes are not flowing in - why?
+#Gradient Descent Objective function
 
 #Define objective function
 obj_fun<-function(x)
