@@ -6,7 +6,7 @@ obj_fun<-function(x)
   return(x^2+25*x)
 }
 
-
+print(1+2)
 #Graphical representation
 valuesx<-c(-80:50)
 obj_out<-obj_fun(valuesx)
