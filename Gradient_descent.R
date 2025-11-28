@@ -48,7 +48,7 @@ grad_desc<-function(x = 0.1, alpha = 0.6, conv=0.001, max_iter=100)
 out<-grad(x=20, alpha=0.1 ,max_iter =100)
 
 #Minimum
-print(tail(out,n=1)
+print(tail(out,n=1))
 #-12.45977 -156.2484
 
 #Plot of output
