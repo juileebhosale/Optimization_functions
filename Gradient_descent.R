@@ -1,8 +1,14 @@
+#test_change
+a=1+2
+print (a)
+#Changes are not flowing in - why?
+
 #Define objective function
 obj_fun<-function(x)
 {
   return(x^2+25*x)
 }
+
 
 #Graphical representation
 valuesx<-c(-80:50)
